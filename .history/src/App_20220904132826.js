@@ -15,7 +15,7 @@ function App() {
     <h1 className='coin-text'>Search a currency</h1>
     <form>
     <input type="text" 
-     className="coin-input"
+     className="coin-input
     placeholder='search'/>
     </form>
     </div>
